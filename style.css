@@ -1,0 +1,72 @@
+.body{background-color: violet;
+    margin: 0;
+    padding: 0;
+
+}
+.titulo{
+    color: blueviolet ;
+        text-align: center;  
+        margin: 0;         
+    font-size: 3cm ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{ 
+    width: 43%;   
+    margin-left: 55%;
+    position: relative;
+    top: 2cm
+   
+;}
+.sub{color: rgb(255, 255, 36);
+font-size: 1cm;
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+  top: -10cm; 
+  left: 5px;
+
+
+}
+
+.texto{color: rgb(254, 243, 82);
+    font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+max-width: 700px;
+position: relative;
+  top: -11cm;
+  left: 5px;
+}
+
+.bota{background-color: #ff0bba;
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(255, 0, 170, 0.773);
+  position: relative;
+  top: -18cm;   
+  left: 92%;   }
+  .cabeça{background-color: rgb(242, 235, 141);
+    padding: 10px;
+    width: 100%;
+   }
+   .tit{color: rgb(244, 1, 1);
+    font-size: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+      top: -10cm; 
+      left: 5px;
+    }
+    .paragrafo{
+      color: rgb(255, 68, 68);
+        font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    position: relative;
+      top: -11cm;
+      left: 5px;
+    }
+  
+  .city{ 
+      width: 43%;   
+      margin-left: 55%;
+      position: relative;
+      top: 10cm ;
+      transform: translateY(-33cm);
+    }
